@@ -30,9 +30,7 @@ This tool is intended as an introductory or educational example of applying dyna
 -->
 ![Terminal Demo](assets/demo.png)
 
-*(Replace the placeholder above with an actual screenshot of the program running in your terminal, saved to an `assets/` folder in your repository.)*
 
----
 
 ## Compilation Instructions
 
